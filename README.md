@@ -1,13 +1,8 @@
-## Getting Started
-
-Imersão Java
-
-## Folder Structure
+## Imersão Java Alura
 
 Imersão Java Alura
 Aula 1
 Aula 2
 
-## Dependency Management
-
+Criando Figurinhas com a classificação dos filmes
 
